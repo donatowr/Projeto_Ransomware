@@ -1,0 +1,3 @@
+Este aquivo esta descriptografado e legivel
+logo apos o uso do ransomware ele fica criptografado, e necessitara da senha pra 
+voltar a ser legivel.
